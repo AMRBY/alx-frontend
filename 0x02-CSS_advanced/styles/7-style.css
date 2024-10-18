@@ -6,8 +6,8 @@
 --color-dark-grey: #353535;
 --text-color: var(--color-black);
 
---font-family-base: "Open Sans", Helvetica, Arial, sans-serif;
---font-family-title: "Raleway", Helvetica, Arial, sans-serif;
+--font-family-base: Helvetica Neue, Helvetica, Arial, sans-serif;
+--font-family-title: Helvetica Neue, Helvetica, Arial, sans-serif;
 
 --font-size-small: 1.2rem;
 --font-size-medium: 1.6rem;
@@ -25,12 +25,12 @@ html {
 }
 body {
   color: var(--text-color);
-  font-family: var(--font-family-base);
+  font-family: "Open Sans", var(--font-family-base);
   font-size: var(--font-size-medium);
   font-weight: var(--font-weight-regular);
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--font-family-title);
+  font-family: "Raleway", var(--font-family-title);
   font-weight: var(--font-weight-bold);
 }
 a {
