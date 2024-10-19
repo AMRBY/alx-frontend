@@ -122,15 +122,13 @@ a:active {
 .navbar-menu {
   margin-right: 0;
 }
-.nav::marker {
-  content: none;
-}
 .nav {
   margin: 0;
   padding: 0;
   text-align: center;
+  list-style: none;
 }
-.nav-item .nav {
+.nav .nav-item {
   font-family: var(--nav-itemi-font-family);
   font-weight: var(--nav-item-font-weight);
   font-size: var(--nav-item-font-size);
@@ -142,6 +140,6 @@ a:active {
   display: block;
   padding: 0.5rem 1rem;
 }
-.nav-link .nav {
+.nav .nav-link:hover {
   color: var(--nav-item-link-hover);
 }
