@@ -168,5 +168,5 @@ ul.row {
   color: var(--text-color);
 }
 footer ul {
-  align-text: right;
+  text-align: right;
 }
