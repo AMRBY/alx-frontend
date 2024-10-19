@@ -173,5 +173,5 @@ ul.row {
 .row::after {
   content: '';
   display: table;
-  clear: float;
+  clear: both;
 }
