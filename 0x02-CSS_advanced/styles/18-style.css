@@ -120,7 +120,7 @@ a:active {
 }
 
 .navbar-menu {
-  margin-right: 0;
+  float: right;
 }
 .nav {
   margin: 0;
