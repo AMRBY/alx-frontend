@@ -129,7 +129,7 @@ a:active {
   list-style: none;
 }
 .nav .nav-item {
-  font-family: var(--nav-itemi-font-family);
+  font-family: var(--nav-item-font-family);
   font-weight: var(--nav-item-font-weight);
   font-size: var(--nav-item-font-size);
   letter-spacing: var(--nav-item-letter-spacing);
