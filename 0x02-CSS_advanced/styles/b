@@ -90,7 +90,7 @@ a:active {
 	background: var(--button-hover-background);
 }
 .visually-hidden {
-	display: None;
+	display: none;
 }
 .card-category {
 	color: var(--color-primary);
