@@ -283,7 +283,7 @@ ul.row {
   position: relative;
   overflow: hidden;
 }
-img .card-work .card-image {
+.card-work .card-image img{
   height: 30rem;
   width: 100%;
   --object-fit: cover;
