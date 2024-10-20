@@ -281,7 +281,7 @@ ul.row {
 }
 .card-work .card-outer {
   position: relative;
-  overflow: hide;
+  overflow: hidden;
 }
 img .card-work .card-image {
   height: 30rem;
